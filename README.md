@@ -1,0 +1,2 @@
+# Food-Donation-Website
+In existing system if anyone have extra food because of any function or in their home or in any idividuals(like cafes,Restaurant etc. it will be become waste because instantly there is no way to share with anyone if they are having lots of food, Even if they want to give that extra food to any orphanage or poor people they don’t have time or don’t have an idea about that.So that we have create a website for sponsor that extra food to poor people or nearby orphanage.
